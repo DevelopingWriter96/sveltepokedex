@@ -116,6 +116,11 @@
 </div>
 
 <style>
+    body {
+        background-color: #555;
+        color: white;
+    }
+
     ul li {
         list-style-type: none;
     }
