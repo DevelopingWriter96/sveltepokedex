@@ -117,11 +117,6 @@
 </body>
 
 <style>
-    body {
-        background-color: red;
-        color: white;
-    }
-
     ul li {
         list-style-type: none;
     }
