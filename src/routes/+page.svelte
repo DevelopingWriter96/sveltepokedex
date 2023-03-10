@@ -68,7 +68,7 @@
         poke = favorites;
         }
 </script>
-
+<body>
 <h1>Gotta Catch Em' All!</h1>
 <div><h2>#{selectedPoke.id} {selectedPoke.name}</h2>
 <img {src} alt="pokemon">
@@ -114,6 +114,7 @@
 {/each}
 </ul>
 </div>
+</body>
 
 <style>
     body {
