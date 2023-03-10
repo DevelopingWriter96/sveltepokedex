@@ -117,7 +117,7 @@
 
 <style>
     body {
-        background-color: #555;
+        background-color: red;
         color: white;
     }
 
